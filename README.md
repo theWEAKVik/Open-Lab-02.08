@@ -13,4 +13,4 @@ Examples:
 * `IsEmpty("") ➞ true`
 * `IsEmpty(" ") ➞ false`
 * `IsEmpty("a") ➞ false`
-* `IsEmpty("GitHub") ➞ false"`
+* `IsEmpty("GitHub") ➞ false`
