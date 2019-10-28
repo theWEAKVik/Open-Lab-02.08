@@ -1,7 +1,7 @@
 # Open-Lab-02.08
 (6 XP) A function that checks if a string is empty.
 
-1. Clone this repository to your GitHub account.
+1. Fork this repository to your GitHub account.
 2. Open solution file in Visual Studio.
 3. Open file `Checker.cs`.
 4. Implement the method `IsEmpty(string str)` that checks if a string is empty.
